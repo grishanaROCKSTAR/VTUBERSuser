@@ -31,7 +31,7 @@ if lang== ('1'):
                 print()
             print('   _____ __________ ________   ____ ______________\n  /  _  \\______   \\_____  \ |    |   \__    ___/\n /  /_\  \|    |  _/ /   |   \|    |   / |    |   \n/    |    \    |   \/    |    \    |  /  |    |   \n\____|__  /______  /\_______  /______/   |____|   \n        \/       \/         \/                    ')
             print('\n\n\n\n\nThis script has been created to give you a VTubers contacts. Ver.1.0\n')
-            b= input('Insert enter to back to the main menu: ')
+            b= input('Press Enter to back to the main menu: ')
             if b== ('e'):
                 while True:
                     for i in range(1,100):
@@ -52,10 +52,10 @@ if lang== ('1'):
     choose=input('[-]: ')
     if choose==('1'):
         print('\nAsahi Lina? Hmm.. Not bad..:\n\n@asahilina(Telegram), youtube.com/@Asahilina(Youtube)\n')
-        input('Insert enter to exit: ')
+        input('Press Enter to exit: ')
     elif choose==('2'):
         print('\nCyan Nyan? Hmm.. Not bad..:\n\n@cyan_nyan(Telegram), youtube.com/@cyannyan6(Youtube)\n')
-        input('Insert enter to exit: ')
+        input('Press Enter to exit: ')
 
 # Russian
 
