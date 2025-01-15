@@ -1,4 +1,4 @@
-# Welcome to README.md! This script has been created by grishanya
+# Welcome to README.md! This script was created by grishanya
 
 Script is open-source and free. You can use it via .exe file or via Python3 in a console.
 If you want to ask me about this script, or(and) modificate it, please DM grishanya at discord: grishanya1499
