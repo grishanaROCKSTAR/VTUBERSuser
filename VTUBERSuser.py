@@ -1,4 +1,4 @@
-# This script is giving a contacts of popular VTubers.
+# This script gives you a contacts of popular VTubers.
 
 # 1. Language.
 
