@@ -1,6 +1,6 @@
-# Welcome to README.md! This script was created by grishanya
+# Welcome to README.md! This script was created by grishanya (EXPEREMENTAL BRANCH)
 
-Script is open-source and free. You can use it via .exe file or via Python3 in a console.
+Script is open-source and free. You can use it via Python3 in a console. This branch has not a compilated .exe file
 If you want to ask me about this script, or(and) modificate it, please DM grishanya at discord: grishanya1499
 Remember: If you modificated this script (e.g. Added new language or added a VTuber in database.log file) DM ME! And I'll check your commits and publish it on GitHub.
 
